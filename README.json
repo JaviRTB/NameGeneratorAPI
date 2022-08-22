@@ -1,0 +1,14 @@
+{
+    "NameGeneratorAPI":"This API allows you to get random data generated from an endpoint,", 
+    "info":"we offer up to 10.000 possibilities per data type,", 
+    "info1":"alllowing you to create unique data that you can use.", 
+    "info2":"All the data used in this API has been randomly generated,", 
+    "info3":"any matching with any truthful data is just a coincidence.",
+    "info4":"",
+    "help":"You can access the command list from either",
+    "help1":"/h",
+    "help2":"/help",
+    "help3":"/commands",
+    "help4":"/cmd"
+}
+

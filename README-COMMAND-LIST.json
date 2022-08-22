@@ -1,0 +1,17 @@
+{
+    "/first-name":"{'first_name':'Riva'}",
+    "/last-name":"{'last_name':'O'Hederscoll'}",
+    "/complete-name":"{'complete_name': 'Claudia Cheek'}",
+    "/complete-name-email":"{'email':'DenysBoig@gmail.com'}",
+    "/email":"{'email':'tcromblehomeco@umich.edu'}",
+    "/phone":"{'phone': '979622348'}",
+    "/street":"{'street': 'Starling'}",
+    "/street-number":"{'street_number': '7'}",
+    "/street-type":"{'street_type': 'Avenue'}",
+    "/street-adress":"{'street_adress': '24463 Maryland Point'}",
+    "/zipcode":"{'zipcode': 94953}",
+    "/city":"{'city': 'El Perico'}",
+    "/country":"{'country': 'Italy'}",
+    "info":"format is changed in the responses, use the api to obtaint json data",
+    "":""
+}
