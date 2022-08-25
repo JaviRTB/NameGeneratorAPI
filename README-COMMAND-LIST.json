@@ -12,6 +12,11 @@
     "/zipcode":"{'zipcode': 94953}",
     "/city":"{'city': 'El Perico'}",
     "/country":"{'country': 'Italy'}",
+    "/iban":"{'IBAN': 'PK26 ZCPF GV21 JUFO KDTJ 1QUH'}",
+    "/dni":"'dni': '20429938-G'",
+    "/password":"'password':'sB4AXptcWW'",
+    "/password-length-25":"'password': 92iTG!sB4AXptcWWZxj6OX)Rmz'",
+    "/password-length-50":"'password':'v?KGKSeg¿sDvUT92iTG!sB4AXptcWWZxj6OX)Rmz8qCOIO/et¿'",
     "info":"format is changed in the responses, use the api to obtaint json data",
     "":""
 }

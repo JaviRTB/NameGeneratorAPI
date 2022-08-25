@@ -15,6 +15,7 @@ app.use(express.json());
 app.use(require('./routes/index'));
 app.use(require('./routes/names'));
 app.use(require('./routes/contact-information'));
+app.use(require('./routes/fiscal-information'));
 app.use(require('./routes/adresses'));
 
 //starting server
